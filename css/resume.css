@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+    background: #26292e;
+    /* color: #e65522; */
+    font-family: Arial, Helvetica, sans-serif;
+    align-items: center;
+    min-height: 100vh;
+    text-align: center;
+    justify-content: center;
+}
+
+a.back{
+    color: #aaa;
+    text-decoration: none;
+    font-size: 0.9rem;
+    text-align: left;
+}
+
+a.back:hover{
+    color: #fff;
+}
+
+h1{
+color: #e65522;
+margin: 16px 32px;
+}
